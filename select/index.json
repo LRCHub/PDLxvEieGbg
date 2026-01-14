@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Mis ojos lloran por ti",
+  "base_artist": "Big Boy",
+  "createdAt": "2026-01-14T01:54:52.825526Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mis Ojos Lloran por Ti",
+      "artist": "Isabela",
+      "has_synced": false,
+      "path": "select/01_Mis_Ojos_Lloran_por_Ti_Isabela.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mis Ojos Lloran Por Ti",
+      "artist": "CNCO",
+      "has_synced": true,
+      "path": "select/02_Mis_Ojos_Lloran_Por_Ti_CNCO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mis Ojos Lloran Por Ti",
+      "artist": "Nadia",
+      "has_synced": true,
+      "path": "select/03_Mis_Ojos_Lloran_Por_Ti_Nadia.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mis Ojos Lloran por Ti",
+      "artist": "Big Boy",
+      "has_synced": true,
+      "path": "select/04_Mis_Ojos_Lloran_por_Ti_Big_Boy.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mis Ojos Lloran por Ti",
+      "artist": "Big Boy",
+      "has_synced": true,
+      "path": "select/05_Mis_Ojos_Lloran_por_Ti_Big_Boy.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mis Ojos Lloran Por Ti",
+      "artist": "CNCO",
+      "has_synced": true,
+      "path": "select/06_Mis_Ojos_Lloran_Por_Ti_CNCO.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mis Ojos Lloran por Ti",
+      "artist": "Boy Big",
+      "has_synced": true,
+      "path": "select/07_Mis_Ojos_Lloran_por_Ti_Boy_Big.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mis Ojos Lloran Por Tí",
+      "artist": "Isabela",
+      "has_synced": false,
+      "path": "select/08_Mis_Ojos_Lloran_Por_Tí_Isabela.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mis Ojos Lloran Por Ti (Official Video)",
+      "artist": "CNCO",
+      "has_synced": true,
+      "path": "select/09_Mis_Ojos_Lloran_Por_Ti_(Official_Video)_CNCO.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mis Ojos Lloran por Ti",
+      "artist": "Big Boy",
+      "has_synced": true,
+      "path": "select/10_Mis_Ojos_Lloran_por_Ti_Big_Boy.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mis Ojos Lloran Por Ti",
+      "artist": "CNCO",
+      "has_synced": true,
+      "path": "select/11_Mis_Ojos_Lloran_Por_Ti_CNCO.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Big Boy - Mis Ojos Lloran Por Ti (Lyrics)",
+      "artist": "swchapin",
+      "has_synced": true,
+      "path": "select/12_Big_Boy_-_Mis_Ojos_Lloran_Por_Ti_(Lyrics)_swchapin.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Mis Ojos Lloran Por Ti ~ Big Boy (Letra)",
+      "artist": "Arleedm",
+      "has_synced": false,
+      "path": "select/13_Mis_Ojos_Lloran_Por_Ti_~_Big_Boy_(Letra)_Arleedm.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mis Ojos Lloran Por Ti",
+      "artist": "big boy",
+      "has_synced": false,
+      "path": "select/pl_01_Mis_Ojos_Lloran_Por_Ti_big_boy.txt"
+    }
+  ]
+}
